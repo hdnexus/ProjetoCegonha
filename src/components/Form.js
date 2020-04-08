@@ -13,7 +13,6 @@ export default class Form extends React.Component{
            </TextInput>
            <TextInput style={styles.inputBox} 
            placeholder='Endereço'
-           secureTextEntry={true}
            placeholderTextColor = '#ffffff'>
           
            </TextInput>
